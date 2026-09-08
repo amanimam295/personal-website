@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, experience, and CV. Built with plain HTML, CSS, and JavaScript, and deployed via GitHub Pages / Vercel.
 
-🔗 **Live site:** [amanimam295-github-io.vercel.app](https://amanimam295-github-io.vercel.app)
+🔗 **Live site:** [amanimam.vercel.app](https://amanimam.vercel.app/)
 
 ## About
 
@@ -78,7 +78,7 @@ The site is deployed automatically via GitHub Pages from the `main` branch, usin
 
 ## Contact
 
-Feel free to reach out through the [contact page](https://amanimam295-github-io.vercel.app/contact.html) on the live site.
+Feel free to reach out through the [contact page](https://amanimam.vercel.app/contact.html) on the live site.
 
 ---
 
