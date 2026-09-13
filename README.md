@@ -60,7 +60,7 @@ A few standalone interactive pages hosted alongside the portfolio:
 Since this is a static site, no build step is required:
 
 ```bash
-git clone https://github.com/amanimam295/amanimam295.github.io.git
+git clone https://github.com/amanimam295/personal-website.git
 cd amanimam295.github.io
 ```
 
